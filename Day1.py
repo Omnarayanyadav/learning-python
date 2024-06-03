@@ -88,7 +88,7 @@ for n in num:
       sum+=n
 print("Sum of positive integers is:",sum)
 
-#Sentences na count words
+#wap to count words in a sentence
 
 sentence=input("Enter the sentence:")
 word=len(sentence)
